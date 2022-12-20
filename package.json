@@ -1,0 +1,23 @@
+{
+  "name": "memocalender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krizh4/memoCalender.git"
+  },
+  "author": "krizh4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krizh4/memoCalender/issues"
+  },
+  "homepage": "https://github.com/krizh4/memoCalender#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
